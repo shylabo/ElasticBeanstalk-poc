@@ -50,6 +50,6 @@ $ eb deploy
 $ eb open
 ```
 
-Check below.
+Just check below.
 
 http://elasticbeanstalk-poc-dev.ap-northeast-1.elasticbeanstalk.com/
